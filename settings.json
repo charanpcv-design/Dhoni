@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Cobblemon1718.aternos.me:17759",
+    "port": 17759,
     "version": "",
     "try-creative": false
   },
